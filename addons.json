@@ -1,0 +1,39 @@
+{
+    "addons": [ 
+        {
+        "name" : "Details",
+        "url" : "https://www.curseforge.com/wow/addons/details/download/2616030/file"
+        },
+		{
+        "name" : "dbm",
+        "url" : "https://wow.curseforge.com/projects/deadly-boss-mods/files/latest"
+        },
+		{
+        "name" : "x2lvl",
+        "url" : "https://wow.curseforge.com/projects/xto-level/files/latest"
+        },
+		{
+        "name" : "Simulationcraft",
+        "url" : "https://wow.curseforge.com/projects/simulationcraft/files/latest"
+        },
+		{
+        "name" : "HandyNotes",
+        "url" : "https://www.wowace.com/projects/handynotes/files/latest"
+        },
+		{
+        "name" : "Handynotes - Arathi Highlands Rares",
+        "url" : "https://wow.curseforge.com/projects/handynotes_arathi/files/latest"
+        }
+		
+		
+		
+
+    ],
+
+    "config": {
+        "interface" : "C:\\Program Files (x86)\\World of Warcraft\\Interface\\AddOns\\",
+		"tmp": "F:\\Temp\\"
+
+    }
+
+}
